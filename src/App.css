@@ -1,0 +1,14 @@
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.App {
+  padding: 20px;
+  text-align: center;
+}
+
+.App li {
+  list-style: none;
+}
